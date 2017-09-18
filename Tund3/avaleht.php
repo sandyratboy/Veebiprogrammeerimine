@@ -76,5 +76,10 @@
 				echo $myLivedYearsList;
 			}
 		?>
+		<h2>Paar linki</h2>
+		<p>Õpime <a href="http://www.tlu.ee" target="_blank">Tallinna Ülikoolis</a>.</p>
+		<p>Minu esimene php leht on <a href="..">siin</a>.</p>
+		<p>Minu sõbra Sergei teeb veebi <a href="../../../../~serfro/Veebiprogrammeerimine">siin</a>.</p>
+		<p>Pilt <a href="http://minitorn.tlu.ee/~rinde/media/fotod/TLU_600x400/tlu_22.jpg" target"_blank">trepist</a>.</p>
 </body>
 </html>
